@@ -1,0 +1,36 @@
+h1{
+    color: rgb(155, 47, 148) ;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: rgb(120, 2, 106);
+}
+body{
+    background-color: rgb(224, 208, 249);
+
+}
+form{
+    background-color: rgb(255, 255, 255);
+    padding: 40px;
+    margin: 50px auto ;
+    border: 3px solid purple;
+    }
+nav{
+    background-color: white;
+    padding: 20px;
+}
+nav a{
+    color: brown;
+}
+footer{
+    background-color: white;
+}
+footer a
+    {
+        color: green;
+    }
+button
+    {
+        background-color: rgb(255, 241, 46);
+        color: rgb(4, 24, 90);
+    }
