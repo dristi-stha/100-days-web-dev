@@ -1,0 +1,58 @@
+h1{
+    color: rgb(155, 47, 148) ;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: rgb(120, 2, 106);
+}
+body{
+    display: flex;
+    background-color: rgb(224, 208, 249);
+    align-items: center;
+    flex-direction: column;
+
+}
+form{
+    background-color: rgb(255, 255, 255);
+    padding: 40px;
+    margin: 50px auto ;
+    border: 3px solid purple;
+    }
+nav{
+    display: flex;
+    background-color: white;
+    padding: 20px;
+    justify-content: right;
+}
+nav a{
+    color: brown;
+}
+footer{
+    background-color: white;
+}
+footer a
+    {
+        color: green;
+    }
+button
+    {
+        display: flex;
+        background-color: rgb(255, 241, 46);
+        color: rgb(4, 24, 90);
+    }
+header{
+    text-align: center;
+}
+.form-container{
+    width: 400px;
+    padding: 20px;
+    border-radius: 8px;
+
+}
+.form-group{
+
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    margin: 50px auto;
+    }
